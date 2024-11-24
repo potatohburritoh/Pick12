@@ -28,6 +28,7 @@
 Option 1. Download game build directly from this GitHub
 1. Under 'Releases', download the latest release.
 2. Unzip the file and double click to play the game.
+
 Option 2. Access link to entire project on Google Drive
 1. Open [link to project](https://drive.google.com/drive/folders/1kmNywAe0v-53WFHNPWTzYkTp3hI27EYj?usp=sharing).
 2. Download the zip file.
