@@ -24,13 +24,14 @@
 * **A Whole Lot of Fun:** Endless hours of fun and testing
 
 ## Getting Started
-
+* Under 'Releases', download the latest release.
+* Unzip the file and double click to play the game.
 
 ## Information
 * Game developed using Unity Engine, optimised for Windows/Mac experience
 * Created on Macbook Air
 * Developed by: Ernneth Toh
-* Category: Action
+* Category: Adventure
 * Languages: English
  
 ## External assets and references
