@@ -6,7 +6,7 @@
 
 ## Game Description
 * Get your heart pumping with this exciting minigame!
-* Escape from the evil zombie while colelcting valuable cubes. Destroy the zombie by collecting 12 cubes.
+* Escape from the evil zombie while collecting valuable cubes. Destroy the zombie by collecting 12 cubes.
 * Made for Windows/Mac with Unity, this game aims to bring simple joy to players with lively animations and graphics.
 * Kill time (and zombies) with Pick12 now!
 
