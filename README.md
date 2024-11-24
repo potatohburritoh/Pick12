@@ -1,5 +1,6 @@
 # Pick12: Escape, Collect, Win
 3D Minigame - CSC3232 Coursework by Si En Ernneth Toh 
+[Link to project (Google Drive)](https://drive.google.com/drive/folders/1kmNywAe0v-53WFHNPWTzYkTp3hI27EYj?usp=sharing)
 
 ## Game Preview
 <img width="300" alt="Pick12_1" src="https://github.com/user-attachments/assets/69840220-4fd9-47b3-9713-57f445ae41b6"> <img width="300" alt="Pick12_2" src="https://github.com/user-attachments/assets/469ace7d-74bd-4ba0-ae16-8921593f9dbb"> <img width="300" alt="Pick12_3" src="https://github.com/user-attachments/assets/e37c286c-2e86-4657-9188-75f2343a344d">
@@ -24,8 +25,13 @@
 * **A Whole Lot of Fun:** Endless hours of fun and testing
 
 ## Getting Started
-* Under 'Releases', download the latest release.
-* Unzip the file and double click to play the game.
+Option 1. Download game build directly from this GitHub
+1. Under 'Releases', download the latest release.
+2. Unzip the file and double click to play the game.
+Option 2. Access link to entire project on Google Drive
+1. Open [link to project](https://drive.google.com/drive/folders/1kmNywAe0v-53WFHNPWTzYkTp3hI27EYj?usp=sharing).
+2. Download the zip file.
+3. Unzip the file and double click on the Pick12Game application to play the game.
 
 ## Information
 * Game developed using Unity Engine, optimised for Windows/Mac experience
